@@ -1,1 +1,2 @@
 # hello-world
+My goal is to become familiar with principles of graphic design and learn how to implement theories in to pratcise. Develop skills in analyzing the usability of a web site. Creating a user friendly interfaces for the client. Looking forward to learn typography, imagery and functionality.
